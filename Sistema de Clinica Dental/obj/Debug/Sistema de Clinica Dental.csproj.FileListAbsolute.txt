@@ -1,0 +1,161 @@
+c:\users\hp\documents\visual studio 2012\Projects\Sistema de Clinica Dental\Sistema de Clinica Dental\bin\Debug\Sistema de Clinica Dental.exe.config
+C:\Users\HP\Desktop\Sistema de Clinica Dental\Sistema de Clinica Dental\bin\Debug\Sistema de Clinica Dental.exe.config
+C:\Users\HP\Desktop\Sistema de Clinica Dental\Sistema de Clinica Dental\bin\Debug\Sistema de Clinica Dental.exe
+C:\Users\HP\Desktop\Sistema de Clinica Dental\Sistema de Clinica Dental\bin\Debug\Sistema de Clinica Dental.pdb
+C:\Users\HP\Desktop\Sistema de Clinica Dental\Sistema de Clinica Dental\obj\Debug\Sistema de Clinica Dental.csprojResolveAssemblyReference.cache
+C:\Users\HP\Desktop\Sistema de Clinica Dental\Sistema de Clinica Dental\obj\Debug\Sistema_de_Clinica_Dental.Properties.Resources.resources
+C:\Users\HP\Desktop\Sistema de Clinica Dental\Sistema de Clinica Dental\obj\Debug\Sistema de Clinica Dental.csproj.GenerateResource.Cache
+C:\Users\HP\Desktop\Sistema de Clinica Dental\Sistema de Clinica Dental\obj\Debug\Sistema de Clinica Dental.exe
+C:\Users\HP\Desktop\Sistema de Clinica Dental\Sistema de Clinica Dental\obj\Debug\Sistema de Clinica Dental.pdb
+C:\Users\HP\Desktop\Sistema de Clinica Dental\Sistema de Clinica Dental\obj\Debug\Sistema_de_Clinica_Dental.FormMenuCita.resources
+C:\Users\HP\Desktop\Sistema de Clinica Dental\Sistema de Clinica Dental\obj\Debug\Sistema_de_Clinica_Dental.FormNuevaCita.resources
+C:\Users\Jordy Arriaga\Desktop\Sistema de Clinica Dental\Sistema de Clinica Dental\bin\Debug\Sistema de Clinica Dental.exe.config
+C:\Users\Jordy Arriaga\Desktop\Sistema de Clinica Dental\Sistema de Clinica Dental\obj\Debug\Sistema de Clinica Dental.exe
+C:\Users\Jordy Arriaga\Desktop\Sistema de Clinica Dental\Sistema de Clinica Dental\obj\Debug\Sistema de Clinica Dental.pdb
+C:\Users\Jordy Arriaga\Desktop\Sistema de Clinica Dental\Sistema de Clinica Dental\bin\Debug\Sistema de Clinica Dental.exe
+C:\Users\Jordy Arriaga\Desktop\Sistema de Clinica Dental\Sistema de Clinica Dental\bin\Debug\Sistema de Clinica Dental.pdb
+C:\Users\Jordy Arriaga\Desktop\Sistema de Clinica Dental\Sistema de Clinica Dental\obj\Debug\Sistema de Clinica Dental.csprojResolveAssemblyReference.cache
+C:\Users\Jordy Arriaga\Desktop\Sistema de Clinica Dental\Sistema de Clinica Dental\obj\Debug\Sistema_de_Clinica_Dental.FormMenuCita.resources
+C:\Users\Jordy Arriaga\Desktop\Sistema de Clinica Dental\Sistema de Clinica Dental\obj\Debug\Sistema_de_Clinica_Dental.FormNuevaCita.resources
+C:\Users\Jordy Arriaga\Desktop\Sistema de Clinica Dental\Sistema de Clinica Dental\obj\Debug\Sistema_de_Clinica_Dental.Properties.Resources.resources
+C:\Users\Jordy Arriaga\Desktop\Sistema de Clinica Dental\Sistema de Clinica Dental\obj\Debug\Sistema de Clinica Dental.csproj.GenerateResource.Cache
+C:\Users\Jordy Arriaga\Desktop\Sistema de Clinica Dental\Sistema de Clinica Dental\obj\Debug\Sistema_de_Clinica_Dental.FormGestionarCita.resources
+C:\Users\Jordy Arriaga\Desktop\Sistema de Clinica Dental\Sistema de Clinica Dental\obj\Debug\Sistema_de_Clinica_Dental.FormMenuDentista.resources
+C:\Users\Jordy Arriaga\Desktop\Sistema de Clinica Dental\Sistema de Clinica Dental\obj\Debug\Sistema_de_Clinica_Dental.FormMenuEmpleado.resources
+C:\Users\Jordy Arriaga\Desktop\Sistema de Clinica Dental\Sistema de Clinica Dental\obj\Debug\Sistema_de_Clinica_Dental.FormGestionarEmpleado.resources
+C:\Users\Jordy Arriaga\Desktop\Sistema de Clinica Dental\Sistema de Clinica Dental\obj\Debug\Sistema_de_Clinica_Dental.FormNuevoEmpleado.resources
+C:\Users\Jordy Arriaga\Desktop\Sistema de Clinica Dental\Sistema de Clinica Dental\obj\Debug\Sistema_de_Clinica_Dental.FormMenuAdm.resources
+C:\Users\Jordy Arriaga\Desktop\Sistema de Clinica Dental\Sistema de Clinica Dental\obj\Debug\Sistema_de_Clinica_Dental.FormGestionarInventario.resources
+C:\Users\Jordy Arriaga\Desktop\Sistema de Clinica Dental\Sistema de Clinica Dental\obj\Debug\Sistema_de_Clinica_Dental.FormMenuInventario.resources
+C:\Users\Jordy Arriaga\Desktop\Sistema de Clinica Dental\Sistema de Clinica Dental\obj\Debug\Sistema_de_Clinica_Dental.FormNuevoInventario.resources
+C:\Users\Jordy Arriaga\Desktop\Sistema de Clinica Dental\Sistema de Clinica Dental\obj\Debug\Sistema_de_Clinica_Dental.Iniciar_Sesion.resources
+C:\Users\Yohana\Desktop\Sistema de Clinica Dental_Jordy\Sistema de Clinica Dental\bin\Debug\Sistema de Clinica Dental.exe.config
+C:\Users\Yohana\Desktop\Sistema de Clinica Dental_Jordy\Sistema de Clinica Dental\obj\Debug\Sistema de Clinica Dental.exe
+C:\Users\Yohana\Desktop\Sistema de Clinica Dental_Jordy\Sistema de Clinica Dental\obj\Debug\Sistema de Clinica Dental.pdb
+C:\Users\Yohana\Desktop\Sistema de Clinica Dental_Jordy\Sistema de Clinica Dental\obj\Debug\Sistema de Clinica Dental.csprojResolveAssemblyReference.cache
+C:\Users\Yohana\Desktop\Sistema de Clinica Dental_Jordy\Sistema de Clinica Dental\obj\Debug\Sistema_de_Clinica_Dental.FormGestionarEmpleado.resources
+C:\Users\Yohana\Desktop\Sistema de Clinica Dental_Jordy\Sistema de Clinica Dental\obj\Debug\Sistema_de_Clinica_Dental.FormGestionarInventario.resources
+C:\Users\Yohana\Desktop\Sistema de Clinica Dental_Jordy\Sistema de Clinica Dental\obj\Debug\WindowsFormsApplication2.FormGestionPaciente.resources
+C:\Users\Yohana\Desktop\Sistema de Clinica Dental_Jordy\Sistema de Clinica Dental\obj\Debug\WindowsFormsApplication2.FormInicioSesion.resources
+C:\Users\Yohana\Desktop\Sistema de Clinica Dental_Jordy\Sistema de Clinica Dental\obj\Debug\Sistema_de_Clinica_Dental.FormMenuAdm.resources
+C:\Users\Yohana\Desktop\Sistema de Clinica Dental_Jordy\Sistema de Clinica Dental\obj\Debug\Sistema_de_Clinica_Dental.FormMenuCita.resources
+C:\Users\Yohana\Desktop\Sistema de Clinica Dental_Jordy\Sistema de Clinica Dental\obj\Debug\Sistema_de_Clinica_Dental.FormMenuDentista.resources
+C:\Users\Yohana\Desktop\Sistema de Clinica Dental_Jordy\Sistema de Clinica Dental\obj\Debug\Sistema_de_Clinica_Dental.FormMenuEmpleado.resources
+C:\Users\Yohana\Desktop\Sistema de Clinica Dental_Jordy\Sistema de Clinica Dental\obj\Debug\Sistema_de_Clinica_Dental.FormMenuInventario.resources
+C:\Users\Yohana\Desktop\Sistema de Clinica Dental_Jordy\Sistema de Clinica Dental\obj\Debug\Sistema_de_Clinica_Dental.FormNuevaCita.resources
+C:\Users\Yohana\Desktop\Sistema de Clinica Dental_Jordy\Sistema de Clinica Dental\obj\Debug\Sistema_de_Clinica_Dental.FormGestionarCita.resources
+C:\Users\Yohana\Desktop\Sistema de Clinica Dental_Jordy\Sistema de Clinica Dental\obj\Debug\Sistema_de_Clinica_Dental.FormNuevoEmpleado.resources
+C:\Users\Yohana\Desktop\Sistema de Clinica Dental_Jordy\Sistema de Clinica Dental\obj\Debug\Sistema_de_Clinica_Dental.FormNuevoInventario.resources
+C:\Users\Yohana\Desktop\Sistema de Clinica Dental_Jordy\Sistema de Clinica Dental\obj\Debug\WindowsFormsApplication2.FormNuevoPaciente.resources
+C:\Users\Yohana\Desktop\Sistema de Clinica Dental_Jordy\Sistema de Clinica Dental\obj\Debug\WindowsFormsApplication2.FormPaciente.resources
+C:\Users\Yohana\Desktop\Sistema de Clinica Dental_Jordy\Sistema de Clinica Dental\obj\Debug\Sistema_de_Clinica_Dental.Properties.Resources.resources
+C:\Users\Yohana\Desktop\Sistema de Clinica Dental_Jordy\Sistema de Clinica Dental\obj\Debug\Sistema de Clinica Dental.csproj.GenerateResource.Cache
+C:\Users\Yohana\Desktop\Sistema de Clinica Dental_Jordy\Sistema de Clinica Dental\bin\Debug\Sistema de Clinica Dental.exe
+C:\Users\Yohana\Desktop\Sistema de Clinica Dental_Jordy\Sistema de Clinica Dental\bin\Debug\Sistema de Clinica Dental.pdb
+C:\Users\Jordy Arriaga\Desktop\Sistema de Clinica Dental_Jordy\Sistema de Clinica Dental\bin\Debug\Sistema de Clinica Dental.exe.config
+C:\Users\Jordy Arriaga\Desktop\Sistema de Clinica Dental_Jordy\Sistema de Clinica Dental\obj\Debug\Sistema de Clinica Dental.exe
+C:\Users\Jordy Arriaga\Desktop\Sistema de Clinica Dental_Jordy\Sistema de Clinica Dental\obj\Debug\Sistema de Clinica Dental.pdb
+C:\Users\Jordy Arriaga\Desktop\Sistema de Clinica Dental_Jordy\Sistema de Clinica Dental\bin\Debug\Sistema de Clinica Dental.exe
+C:\Users\Jordy Arriaga\Desktop\Sistema de Clinica Dental_Jordy\Sistema de Clinica Dental\bin\Debug\Sistema de Clinica Dental.pdb
+C:\Users\Jordy Arriaga\Desktop\Sistema de Clinica Dental_Jordy\Sistema de Clinica Dental\obj\Debug\Sistema de Clinica Dental.csprojResolveAssemblyReference.cache
+C:\Users\Jordy Arriaga\Desktop\Sistema de Clinica Dental_Jordy\Sistema de Clinica Dental\obj\Debug\Sistema_de_Clinica_Dental.FormGestionarEmpleado.resources
+C:\Users\Jordy Arriaga\Desktop\Sistema de Clinica Dental_Jordy\Sistema de Clinica Dental\obj\Debug\Sistema_de_Clinica_Dental.FormGestionarInventario.resources
+C:\Users\Jordy Arriaga\Desktop\Sistema de Clinica Dental_Jordy\Sistema de Clinica Dental\obj\Debug\WindowsFormsApplication2.FormGestionPaciente.resources
+C:\Users\Jordy Arriaga\Desktop\Sistema de Clinica Dental_Jordy\Sistema de Clinica Dental\obj\Debug\WindowsFormsApplication2.FormInicioSesion.resources
+C:\Users\Jordy Arriaga\Desktop\Sistema de Clinica Dental_Jordy\Sistema de Clinica Dental\obj\Debug\Sistema_de_Clinica_Dental.FormMenuAdm.resources
+C:\Users\Jordy Arriaga\Desktop\Sistema de Clinica Dental_Jordy\Sistema de Clinica Dental\obj\Debug\Sistema_de_Clinica_Dental.FormMenuCita.resources
+C:\Users\Jordy Arriaga\Desktop\Sistema de Clinica Dental_Jordy\Sistema de Clinica Dental\obj\Debug\Sistema_de_Clinica_Dental.FormMenuDentista.resources
+C:\Users\Jordy Arriaga\Desktop\Sistema de Clinica Dental_Jordy\Sistema de Clinica Dental\obj\Debug\Sistema_de_Clinica_Dental.FormMenuEmpleado.resources
+C:\Users\Jordy Arriaga\Desktop\Sistema de Clinica Dental_Jordy\Sistema de Clinica Dental\obj\Debug\Sistema_de_Clinica_Dental.FormMenuInventario.resources
+C:\Users\Jordy Arriaga\Desktop\Sistema de Clinica Dental_Jordy\Sistema de Clinica Dental\obj\Debug\Sistema_de_Clinica_Dental.FormNuevaCita.resources
+C:\Users\Jordy Arriaga\Desktop\Sistema de Clinica Dental_Jordy\Sistema de Clinica Dental\obj\Debug\Sistema_de_Clinica_Dental.FormGestionarCita.resources
+C:\Users\Jordy Arriaga\Desktop\Sistema de Clinica Dental_Jordy\Sistema de Clinica Dental\obj\Debug\Sistema_de_Clinica_Dental.FormNuevoEmpleado.resources
+C:\Users\Jordy Arriaga\Desktop\Sistema de Clinica Dental_Jordy\Sistema de Clinica Dental\obj\Debug\Sistema_de_Clinica_Dental.FormNuevoInventario.resources
+C:\Users\Jordy Arriaga\Desktop\Sistema de Clinica Dental_Jordy\Sistema de Clinica Dental\obj\Debug\WindowsFormsApplication2.FormNuevoPaciente.resources
+C:\Users\Jordy Arriaga\Desktop\Sistema de Clinica Dental_Jordy\Sistema de Clinica Dental\obj\Debug\WindowsFormsApplication2.FormPaciente.resources
+C:\Users\Jordy Arriaga\Desktop\Sistema de Clinica Dental_Jordy\Sistema de Clinica Dental\obj\Debug\Sistema_de_Clinica_Dental.Properties.Resources.resources
+C:\Users\Jordy Arriaga\Desktop\Sistema de Clinica Dental_Jordy\Sistema de Clinica Dental\obj\Debug\Sistema de Clinica Dental.csproj.GenerateResource.Cache
+C:\Users\Yohana\Desktop\Sistema de Clinica Dental_Version_Jordy\Sistema de Clinica Dental\bin\Debug\Sistema de Clinica Dental.exe.config
+C:\Users\Yohana\Desktop\Sistema de Clinica Dental_Version_Jordy\Sistema de Clinica Dental\obj\Debug\Sistema de Clinica Dental.exe
+C:\Users\Yohana\Desktop\Sistema de Clinica Dental_Version_Jordy\Sistema de Clinica Dental\obj\Debug\Sistema de Clinica Dental.pdb
+C:\Users\Yohana\Desktop\Sistema de Clinica Dental_Version_Jordy\Sistema de Clinica Dental\bin\Debug\Sistema de Clinica Dental.exe
+C:\Users\Yohana\Desktop\Sistema de Clinica Dental_Version_Jordy\Sistema de Clinica Dental\bin\Debug\Sistema de Clinica Dental.pdb
+C:\Users\Yohana\Desktop\Sistema de Clinica Dental_Version_Jordy\Sistema de Clinica Dental\obj\Debug\Sistema de Clinica Dental.csprojResolveAssemblyReference.cache
+C:\Users\Yohana\Desktop\Sistema de Clinica Dental_Version_Jordy\Sistema de Clinica Dental\obj\Debug\Sistema_de_Clinica_Dental.FormGestionarEmpleado.resources
+C:\Users\Yohana\Desktop\Sistema de Clinica Dental_Version_Jordy\Sistema de Clinica Dental\obj\Debug\WindowsFormsApplication2.FormGestionPaciente.resources
+C:\Users\Yohana\Desktop\Sistema de Clinica Dental_Version_Jordy\Sistema de Clinica Dental\obj\Debug\WindowsFormsApplication2.FormInicioSesion.resources
+C:\Users\Yohana\Desktop\Sistema de Clinica Dental_Version_Jordy\Sistema de Clinica Dental\obj\Debug\Sistema_de_Clinica_Dental.FormMenuAdm.resources
+C:\Users\Yohana\Desktop\Sistema de Clinica Dental_Version_Jordy\Sistema de Clinica Dental\obj\Debug\Sistema_de_Clinica_Dental.FormMenuCita.resources
+C:\Users\Yohana\Desktop\Sistema de Clinica Dental_Version_Jordy\Sistema de Clinica Dental\obj\Debug\Sistema_de_Clinica_Dental.FormMenuDentista.resources
+C:\Users\Yohana\Desktop\Sistema de Clinica Dental_Version_Jordy\Sistema de Clinica Dental\obj\Debug\Sistema_de_Clinica_Dental.FormMenuEmpleado.resources
+C:\Users\Yohana\Desktop\Sistema de Clinica Dental_Version_Jordy\Sistema de Clinica Dental\obj\Debug\Sistema_de_Clinica_Dental.FormNuevaCita.resources
+C:\Users\Yohana\Desktop\Sistema de Clinica Dental_Version_Jordy\Sistema de Clinica Dental\obj\Debug\Sistema_de_Clinica_Dental.FormGestionarCita.resources
+C:\Users\Yohana\Desktop\Sistema de Clinica Dental_Version_Jordy\Sistema de Clinica Dental\obj\Debug\Sistema_de_Clinica_Dental.FormNuevoEmpleado.resources
+C:\Users\Yohana\Desktop\Sistema de Clinica Dental_Version_Jordy\Sistema de Clinica Dental\obj\Debug\WindowsFormsApplication2.FormNuevoPaciente.resources
+C:\Users\Yohana\Desktop\Sistema de Clinica Dental_Version_Jordy\Sistema de Clinica Dental\obj\Debug\WindowsFormsApplication2.FormPaciente.resources
+C:\Users\Yohana\Desktop\Sistema de Clinica Dental_Version_Jordy\Sistema de Clinica Dental\obj\Debug\Sistema_de_Clinica_Dental.Properties.Resources.resources
+C:\Users\Yohana\Desktop\Sistema de Clinica Dental_Version_Jordy\Sistema de Clinica Dental\obj\Debug\Sistema de Clinica Dental.csproj.GenerateResource.Cache
+C:\Users\Yohana\Desktop\Sistema de Clinica Dental_Version_Jordy\Sistema de Clinica Dental\obj\Debug\Sistema_de_Clinica_Dental.FormAgregarMaterial.resources
+C:\Users\Yohana\Desktop\Sistema de Clinica Dental_Version_Jordy\Sistema de Clinica Dental\obj\Debug\WindowsFormsApplication1.gestionproveedor.resources
+C:\Users\Yohana\Desktop\Sistema de Clinica Dental_Version_Jordy\Sistema de Clinica Dental\obj\Debug\WindowsFormsApplication1.gestióndeinventario.resources
+C:\Users\Yohana\Desktop\Sistema de Clinica Dental_Version_Jordy\Sistema de Clinica Dental\obj\Debug\WindowsFormsApplication1.moduloinventario.resources
+C:\Users\Yohana\Desktop\Sistema de Clinica Dental_Version_Jordy\Sistema de Clinica Dental\obj\Debug\WindowsFormsApplication1.moduloproveedor.resources
+C:\Users\Yohana\Desktop\Sistema de Clinica Dental_Version_Jordy\Sistema de Clinica Dental\obj\Debug\WindowsFormsApplication1.nuevoproducto.resources
+C:\Users\Yohana\Desktop\Sistema de Clinica Dental_Version_Jordy\Sistema de Clinica Dental\obj\Debug\WindowsFormsApplication1.nuevoproveedor.resources
+C:\Users\Jordy Arriaga\Desktop\Sistema de Clinica Dental_Version_Jordy\Sistema de Clinica Dental\bin\Debug\Sistema de Clinica Dental.exe.config
+C:\Users\Jordy Arriaga\Desktop\Sistema de Clinica Dental_Version_Jordy\Sistema de Clinica Dental\obj\Debug\Sistema de Clinica Dental.exe
+C:\Users\Jordy Arriaga\Desktop\Sistema de Clinica Dental_Version_Jordy\Sistema de Clinica Dental\obj\Debug\Sistema de Clinica Dental.pdb
+C:\Users\Jordy Arriaga\Desktop\Sistema de Clinica Dental_Version_Jordy\Sistema de Clinica Dental\bin\Debug\Sistema de Clinica Dental.exe
+C:\Users\Jordy Arriaga\Desktop\Sistema de Clinica Dental_Version_Jordy\Sistema de Clinica Dental\bin\Debug\Sistema de Clinica Dental.pdb
+C:\Users\Jordy Arriaga\Desktop\Sistema de Clinica Dental_Version_Jordy\Sistema de Clinica Dental\obj\Debug\Sistema de Clinica Dental.csprojResolveAssemblyReference.cache
+C:\Users\Jordy Arriaga\Desktop\Sistema de Clinica Dental_Version_Jordy\Sistema de Clinica Dental\obj\Debug\Sistema_de_Clinica_Dental.FormAgregarMaterial.resources
+C:\Users\Jordy Arriaga\Desktop\Sistema de Clinica Dental_Version_Jordy\Sistema de Clinica Dental\obj\Debug\Sistema_de_Clinica_Dental.FormGestionarEmpleado.resources
+C:\Users\Jordy Arriaga\Desktop\Sistema de Clinica Dental_Version_Jordy\Sistema de Clinica Dental\obj\Debug\WindowsFormsApplication2.FormGestionPaciente.resources
+C:\Users\Jordy Arriaga\Desktop\Sistema de Clinica Dental_Version_Jordy\Sistema de Clinica Dental\obj\Debug\WindowsFormsApplication2.FormInicioSesion.resources
+C:\Users\Jordy Arriaga\Desktop\Sistema de Clinica Dental_Version_Jordy\Sistema de Clinica Dental\obj\Debug\Sistema_de_Clinica_Dental.FormMenuAdm.resources
+C:\Users\Jordy Arriaga\Desktop\Sistema de Clinica Dental_Version_Jordy\Sistema de Clinica Dental\obj\Debug\Sistema_de_Clinica_Dental.FormMenuCita.resources
+C:\Users\Jordy Arriaga\Desktop\Sistema de Clinica Dental_Version_Jordy\Sistema de Clinica Dental\obj\Debug\Sistema_de_Clinica_Dental.FormMenuDentista.resources
+C:\Users\Jordy Arriaga\Desktop\Sistema de Clinica Dental_Version_Jordy\Sistema de Clinica Dental\obj\Debug\Sistema_de_Clinica_Dental.FormMenuEmpleado.resources
+C:\Users\Jordy Arriaga\Desktop\Sistema de Clinica Dental_Version_Jordy\Sistema de Clinica Dental\obj\Debug\Sistema_de_Clinica_Dental.FormNuevaCita.resources
+C:\Users\Jordy Arriaga\Desktop\Sistema de Clinica Dental_Version_Jordy\Sistema de Clinica Dental\obj\Debug\Sistema_de_Clinica_Dental.FormGestionarCita.resources
+C:\Users\Jordy Arriaga\Desktop\Sistema de Clinica Dental_Version_Jordy\Sistema de Clinica Dental\obj\Debug\Sistema_de_Clinica_Dental.FormNuevoEmpleado.resources
+C:\Users\Jordy Arriaga\Desktop\Sistema de Clinica Dental_Version_Jordy\Sistema de Clinica Dental\obj\Debug\WindowsFormsApplication2.FormNuevoPaciente.resources
+C:\Users\Jordy Arriaga\Desktop\Sistema de Clinica Dental_Version_Jordy\Sistema de Clinica Dental\obj\Debug\WindowsFormsApplication2.FormPaciente.resources
+C:\Users\Jordy Arriaga\Desktop\Sistema de Clinica Dental_Version_Jordy\Sistema de Clinica Dental\obj\Debug\WindowsFormsApplication1.gestionproveedor.resources
+C:\Users\Jordy Arriaga\Desktop\Sistema de Clinica Dental_Version_Jordy\Sistema de Clinica Dental\obj\Debug\WindowsFormsApplication1.gestióndeinventario.resources
+C:\Users\Jordy Arriaga\Desktop\Sistema de Clinica Dental_Version_Jordy\Sistema de Clinica Dental\obj\Debug\WindowsFormsApplication1.moduloinventario.resources
+C:\Users\Jordy Arriaga\Desktop\Sistema de Clinica Dental_Version_Jordy\Sistema de Clinica Dental\obj\Debug\WindowsFormsApplication1.moduloproveedor.resources
+C:\Users\Jordy Arriaga\Desktop\Sistema de Clinica Dental_Version_Jordy\Sistema de Clinica Dental\obj\Debug\WindowsFormsApplication1.nuevoproducto.resources
+C:\Users\Jordy Arriaga\Desktop\Sistema de Clinica Dental_Version_Jordy\Sistema de Clinica Dental\obj\Debug\WindowsFormsApplication1.nuevoproveedor.resources
+C:\Users\Jordy Arriaga\Desktop\Sistema de Clinica Dental_Version_Jordy\Sistema de Clinica Dental\obj\Debug\Sistema_de_Clinica_Dental.Properties.Resources.resources
+C:\Users\Jordy Arriaga\Desktop\Sistema de Clinica Dental_Version_Jordy\Sistema de Clinica Dental\obj\Debug\Sistema de Clinica Dental.csproj.GenerateResource.Cache
+C:\Users\Yohana\Documents\Sistema de Clinica Dental_Version_Jordy\Sistema de Clinica Dental\bin\Debug\Sistema de Clinica Dental.exe.config
+C:\Users\Yohana\Documents\Sistema de Clinica Dental_Version_Jordy\Sistema de Clinica Dental\obj\Debug\Sistema de Clinica Dental.exe
+C:\Users\Yohana\Documents\Sistema de Clinica Dental_Version_Jordy\Sistema de Clinica Dental\obj\Debug\Sistema de Clinica Dental.pdb
+C:\Users\Yohana\Documents\Sistema de Clinica Dental_Version_Jordy\Sistema de Clinica Dental\bin\Debug\Sistema de Clinica Dental.exe
+C:\Users\Yohana\Documents\Sistema de Clinica Dental_Version_Jordy\Sistema de Clinica Dental\bin\Debug\Sistema de Clinica Dental.pdb
+C:\Users\Yohana\Documents\Sistema de Clinica Dental_Version_Jordy\Sistema de Clinica Dental\obj\Debug\Sistema de Clinica Dental.csprojResolveAssemblyReference.cache
+C:\Users\Yohana\Documents\Sistema de Clinica Dental_Version_Jordy\Sistema de Clinica Dental\obj\Debug\Sistema_de_Clinica_Dental.FormAgregarMaterial.resources
+C:\Users\Yohana\Documents\Sistema de Clinica Dental_Version_Jordy\Sistema de Clinica Dental\obj\Debug\Sistema_de_Clinica_Dental.FormGestionarEmpleado.resources
+C:\Users\Yohana\Documents\Sistema de Clinica Dental_Version_Jordy\Sistema de Clinica Dental\obj\Debug\WindowsFormsApplication2.FormGestionPaciente.resources
+C:\Users\Yohana\Documents\Sistema de Clinica Dental_Version_Jordy\Sistema de Clinica Dental\obj\Debug\WindowsFormsApplication2.FormInicioSesion.resources
+C:\Users\Yohana\Documents\Sistema de Clinica Dental_Version_Jordy\Sistema de Clinica Dental\obj\Debug\Sistema_de_Clinica_Dental.FormMenuAdm.resources
+C:\Users\Yohana\Documents\Sistema de Clinica Dental_Version_Jordy\Sistema de Clinica Dental\obj\Debug\Sistema_de_Clinica_Dental.FormMenuCita.resources
+C:\Users\Yohana\Documents\Sistema de Clinica Dental_Version_Jordy\Sistema de Clinica Dental\obj\Debug\Sistema_de_Clinica_Dental.FormMenuDentista.resources
+C:\Users\Yohana\Documents\Sistema de Clinica Dental_Version_Jordy\Sistema de Clinica Dental\obj\Debug\Sistema_de_Clinica_Dental.FormMenuEmpleado.resources
+C:\Users\Yohana\Documents\Sistema de Clinica Dental_Version_Jordy\Sistema de Clinica Dental\obj\Debug\Sistema_de_Clinica_Dental.FormNuevaCita.resources
+C:\Users\Yohana\Documents\Sistema de Clinica Dental_Version_Jordy\Sistema de Clinica Dental\obj\Debug\Sistema_de_Clinica_Dental.FormGestionarCita.resources
+C:\Users\Yohana\Documents\Sistema de Clinica Dental_Version_Jordy\Sistema de Clinica Dental\obj\Debug\Sistema_de_Clinica_Dental.FormNuevoEmpleado.resources
+C:\Users\Yohana\Documents\Sistema de Clinica Dental_Version_Jordy\Sistema de Clinica Dental\obj\Debug\WindowsFormsApplication2.FormNuevoPaciente.resources
+C:\Users\Yohana\Documents\Sistema de Clinica Dental_Version_Jordy\Sistema de Clinica Dental\obj\Debug\WindowsFormsApplication2.FormPaciente.resources
+C:\Users\Yohana\Documents\Sistema de Clinica Dental_Version_Jordy\Sistema de Clinica Dental\obj\Debug\WindowsFormsApplication1.gestionproveedor.resources
+C:\Users\Yohana\Documents\Sistema de Clinica Dental_Version_Jordy\Sistema de Clinica Dental\obj\Debug\WindowsFormsApplication1.gestióndeinventario.resources
+C:\Users\Yohana\Documents\Sistema de Clinica Dental_Version_Jordy\Sistema de Clinica Dental\obj\Debug\WindowsFormsApplication1.moduloinventario.resources
+C:\Users\Yohana\Documents\Sistema de Clinica Dental_Version_Jordy\Sistema de Clinica Dental\obj\Debug\WindowsFormsApplication1.moduloproveedor.resources
+C:\Users\Yohana\Documents\Sistema de Clinica Dental_Version_Jordy\Sistema de Clinica Dental\obj\Debug\WindowsFormsApplication1.nuevoproducto.resources
+C:\Users\Yohana\Documents\Sistema de Clinica Dental_Version_Jordy\Sistema de Clinica Dental\obj\Debug\WindowsFormsApplication1.nuevoproveedor.resources
+C:\Users\Yohana\Documents\Sistema de Clinica Dental_Version_Jordy\Sistema de Clinica Dental\obj\Debug\Sistema_de_Clinica_Dental.Properties.Resources.resources
+C:\Users\Yohana\Documents\Sistema de Clinica Dental_Version_Jordy\Sistema de Clinica Dental\obj\Debug\Sistema de Clinica Dental.csproj.GenerateResource.Cache
+C:\Users\Yohana\Documents\Sistema de Clinica Dental_Version_Jordy\Sistema de Clinica Dental\obj\Debug\Sistema_de_Clinica_Dental.FormReporte.resources
+C:\Users\Yohana\Documents\Sistema de Clinica Dental_Version_Jordy\Sistema de Clinica Dental\obj\Debug\RdlCompile.cache
+C:\Users\Yohana\Documents\Sistema de Clinica Dental_Version_Jordy\Sistema de Clinica Dental\obj\Debug\RdlCompile.compiled
